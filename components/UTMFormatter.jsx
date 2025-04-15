@@ -38,10 +38,10 @@ export default function UTMFormatter() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gray-900 text-white p-4">
       <Card className="w-full max-w-xl shadow-xl border border-gray-700 bg-gray-800">
-        <CardContent className="p-6 space-y-6">
+        <CardContent className="p-8 space-y-8">
           <div className="flex flex-col items-center justify-center space-y-4">
-            <img src="/logo.png" alt="Logo UTM Cleaner" className="w-24 h-24" />
-            <h1 className="text-3xl font-bold text-center">UTM Cleaner</h1>
+            <img src="/logo.png" alt="Logo UTM Cleaner" className="w-16 h-16 object-contain" />
+            <h1 className="text-4xl font-extrabold text-center">UTM Cleaner</h1>
           </div>
 
           <div>
