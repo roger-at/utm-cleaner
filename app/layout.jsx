@@ -1,4 +1,3 @@
-
 export const metadata = {
   title: "UTM Cleaner",
   description: "Limpe nomes de campanhas para usar como utm_campaign",
